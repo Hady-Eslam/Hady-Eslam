@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 👋 Hi, I’m Hady Eslam
+- 👀 I’m interested in Backend Development
+- 🌱 I’m currently learning REST API
+- 📫 How to reach me `abdoaslam000@gmail.com`
